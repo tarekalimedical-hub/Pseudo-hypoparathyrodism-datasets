@@ -1,0 +1,13 @@
+complication_id,complication_name,complication_category,onset_age_years,onset_year_relative,severity_score,documentation_source,treatment_era_at_onset,resolution_status,clinical_impact_description
+C01,Brain calcification - basal ganglia,neurological,4.5,0.0,8,imaging,inadequate,ongoing,Bilateral basal ganglia calcification on CT - permanent structural change
+C02,Seizures - hypocalcemia induced,neurological,5.0,0.5,10,clinical,inadequate,resolved,Multiple episodes ages 5-11 requiring emergency treatment - resolved after calcium >6.5 mg/dL
+C03,Severe hypocalcemia crisis,metabolic,10.5,6.0,10,clinical,inadequate,resolved,Calcium 5.0 mg/dL - hospitalization with IV calcium required
+C04,Immune dysfunction,metabolic,11.0,6.5,5,clinical,inadequate,improving,Frequent infections slow healing - improved post-optimization
+C05,Cardiac stress - tachycardia and arrhythmia,cardiovascular,26.0,21.5,7,clinical,inadequate,resolved,Resting HR >100 bpm prolonged QT on ECG - resolved with calcium normalization
+C06,Hip ossification,musculoskeletal,28.0,23.5,7,imaging,inadequate,stabilized,Soft tissue ossification around hip joint - limited range of motion chronic pain
+C07,Knee ossification,musculoskeletal,28.0,23.5,6,imaging,inadequate,stabilized,Joint calcification and degeneration - mobility limitations
+C08,TSH resistance - thyroid hormone resistance,metabolic,26.0,21.5,4,clinical,inadequate,ongoing,Elevated TSH despite normal T4 - requires higher levothyroxine doses
+C09,Severe hypocalcemia crisis,metabolic,29.0,24.5,10,clinical,inadequate,resolved,Calcium 4.5 mg/dL - tetany cognitive impairment - triggered self-diagnosis
+C10,Spinal degeneration,musculoskeletal,29.0,24.5,5,imaging,inadequate,stabilized,Chronic lower back pain postural abnormalities - stable on current treatment
+C11,Metabolic dysfunction - chronic fatigue,metabolic,29.0,24.5,6,patient-reported,inadequate,improving,Energy deficit poor physical endurance - significantly improved post-optimization
+C12,Quality of life impairment,other,4.5,0.0,8,patient-reported,inadequate,improving,Overall QoL 3/10 during inadequate treatment - improved to 7/10 post-optimization

@@ -1,0 +1,9 @@
+protocol_id,start_date,end_date,duration_years,calcium_dose_mg,Alfacidol_dose_mcg,calcitriol_dose_mcg,vitamin_d3_dose_IU,vitamin_k2_mk7_dose_mcg,magnesium_dose_mg,zinc_dose_mg,adherence_estimated,treatment_era,protocol_rationale
+P1,1996-01,2002-01,6,400,0.5,0,0,0,0,0,75,inadequate,Initial hypoparathyroidism protocol - inadequate for PHP
+P2,2002-02,2008-01,5.9,500,1,0,0,0,0,0,70,inadequate,Slight dose increase post-crisis
+P3,2008-02,2015-01,6.9,600,1,0,0,0,0,0,80,inadequate,Stable inadequate protocol during China residence
+P4,2015-02,2019-01,3.9,600,1,0,5000,0,400,50,75,inadequate,Calcitriol increase - calcium dose unchanged
+P5,2019-02,2020-01,0.9,600,1,0,5000,0,400,50,65,inadequate,Decreased calcium compliance during relocation
+P6,2020-02,2025-11,5.8,600,1,0,5000,0,400,50,85,inadequate,Resumed baseline inadequate protocol
+P7,2025-12,2026-01-15,0.13,1800,0,2,10000,200,1200,30,95,optimized,Initial optimization - gradual calcium escalation plus K2
+P8,2026-01-16,2026-03,0.13,3600,0,2,10000,200,1200,30,98,optimized,Full optimized protocol - 6x calcium increase with comprehensive cofactors
